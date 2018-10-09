@@ -1,6 +1,0 @@
-<?php
-
-$name = 'ling';
-fff
-
-?>
