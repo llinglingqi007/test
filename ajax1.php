@@ -1,5 +1,6 @@
 <?php
 
 $name = 'ling';
+fff
 
 ?>
